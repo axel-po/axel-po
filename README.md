@@ -1,11 +1,11 @@
 <h1 align="center">Salut 👋, je suis Axel</h1>
 <h3 align="center">Un développeur frontend passionné</h3>
 
-- 🔭 Je travaille actuellement sur [netflix clone in react js] (https://clone-netflix-react.axel-pointud.fr/)
+- 🔭 Je travaille actuellement sur un clone de netflix en react js (https://clone-netflix-react.axel-pointud.fr/)
 
 - 🌱 J'apprends actuellement **Typescript**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [axel-pointud.fr](axel -pointud.fr)
+- 👨‍💻 Tous mes projets sont disponibles sur axel-pointud.fr
 
 - 📫 Comment me joindre **contact@axel-pointud.fr**
 
