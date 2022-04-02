@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [axel-pointud.fr](axel-pointud.fr)
+- 👨‍💻 All of my projects are available at [axel-pointud.fr] (https://www.axel-pointud.fr)
 
 - 📫 How to reach me **contact@axel-pointud.fr**
 
