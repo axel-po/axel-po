@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/axel-pointud-7a891b1ba/" target="blank"><img align="center" src="img/icons-linkedin.svg" alt="icon linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/AxelPointud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/axel-pointud-7a891b1ba/" target="_blank"><img align="center" src="img/icons-linkedin.svg" alt="icon linkedin" height="30" width="40" /></a>
+<a href="https://twitter.com/AxelPointud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
