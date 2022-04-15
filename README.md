@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [netflix clone in react js](https://clone-netflix-react.axel-pointud.fr/)
+- 🔭 I’m currently working on [netflix clone in react js](https://netflix-react-clone-axel-po.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript**
 
