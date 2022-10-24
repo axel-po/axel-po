@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://www.axel-pointud.fr/)
+- 🔭 I’m currently working on Typescript course mastery
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at (https://axel-pointud.fr)
 
