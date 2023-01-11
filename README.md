@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Typescript course mastery
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Gatsby JS and GraphQL**
 
 - 👨‍💻 All of my projects are available at (https://axel-pointud.fr)
 
