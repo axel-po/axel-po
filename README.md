@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Three.js Journey**
+- 🔭 I’m currently working on **App Trackers**
 
-- 🌱 I’m currently learning **Three JS and WebGL**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at (https://axel-pointud.fr)
 
