@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (https://axel-pointud.fr)
 
-- 📫 How to reach me **contact@axel-pointud.fr**
+- 📫 How to reach me **[https://axel-pointud.fr/#contact](https://axel-pointud.fr/#contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
